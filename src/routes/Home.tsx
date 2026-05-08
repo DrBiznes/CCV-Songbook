@@ -6,9 +6,8 @@ export function Home() {
   const random = allSongs[Math.floor(Math.random() * allSongs.length)];
   return (
     <div className="home">
-      <p className="eyebrow">Camp Cherry Valley</p>
-      <h1 className="home__title">Songbook</h1>
-      <p className="home__sub muted">A digital edition of the 1923 collection.</p>
+      <img src="/ccvboatlogo.svg" alt="Camp Cherry Valley" className="home__logo" />
+      <h1 className="home__title">CCV Songbook</h1>
       <Ornament variant="fleuron" />
       <div className="home__cta">
         <Link to="/songs">Browse all songs</Link>

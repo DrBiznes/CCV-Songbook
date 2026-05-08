@@ -1,3 +1,12 @@
+/* ── Fonts ─────────────────────────────────────────────────────── */
+@font-face {
+  font-family: "Comico";
+  src: url("/Comico-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
 /* ── Design tokens ─────────────────────────────────────────────── */
 :root {
   --paper: #f6efe1;
@@ -10,6 +19,7 @@
   --red: #a0432e;
 
   --font-serif: "Crimson Pro", "Iowan Old Style", "Georgia", serif;
+  --font-display: "Comico", "Crimson Pro", serif;
 
   --measure: 38rem; /* ~640px reading width */
   --tab-bar-h: 64px;
@@ -129,60 +139,49 @@ p {
   color: var(--ink-soft);
 }
 
-/* ── Header (desktop) ──────────────────────────────────────────── */
-.site-header {
-  border-bottom: 1px solid var(--rule);
-  background: var(--paper);
-}
-
-.site-header__inner {
-  max-width: var(--measure);
-  margin: 0 auto;
-  padding: 1rem 1.25rem;
-  display: flex;
-  align-items: center;
-  gap: 1.5rem;
-}
-
-.site-header__brand {
-  font-family: var(--font-serif);
-  font-weight: 600;
-  font-size: 1.15rem;
-  color: var(--ink);
-  border-bottom: 0;
-}
-
-.site-header__brand-sub {
-  display: block;
-  font-size: 0.7rem;
-  letter-spacing: 0.18em;
-  text-transform: uppercase;
-  color: var(--ink-soft);
-  font-weight: 500;
-}
-
-.site-header__nav {
+/* ── Floating nav pill (desktop) ───────────────────────────────── */
+.floating-nav {
+  position: fixed;
+  top: max(16px, env(safe-area-inset-top));
+  right: 20px;
+  z-index: 20;
   display: none;
-  margin-left: auto;
-  gap: 1.25rem;
-}
-
-.site-header__nav a {
-  font-size: 0.85rem;
-  letter-spacing: 0.14em;
-  text-transform: uppercase;
-  color: var(--ink-soft);
-}
-
-.site-header__nav a.active,
-.site-header__nav a:hover {
-  color: var(--green);
+  gap: 0.25rem;
+  padding: 4px;
+  background: rgba(246, 239, 225, 0.85);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border: 1px solid var(--rule);
+  border-radius: 999px;
+  box-shadow: 0 1px 2px rgba(43, 38, 32, 0.06);
 }
 
 @media (min-width: 768px) {
-  .site-header__nav {
+  .floating-nav {
     display: flex;
   }
+}
+
+.floating-nav__btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  color: var(--ink-soft);
+  border-bottom: 0;
+  transition: background 120ms ease, color 120ms ease;
+}
+
+.floating-nav__btn:hover {
+  background: var(--paper);
+  color: var(--green);
+}
+
+.floating-nav__btn svg {
+  width: 18px;
+  height: 18px;
 }
 
 /* ── Bottom tab bar (mobile) ───────────────────────────────────── */
@@ -363,13 +362,18 @@ p {
   padding-top: 2rem;
 }
 
-.home__title {
-  font-size: clamp(2.25rem, 1.6rem + 3vw, 3rem);
-  margin-bottom: 0.25rem;
+.home__logo {
+  width: clamp(120px, 38%, 170px);
+  height: auto;
+  margin: 0 auto 0.75rem;
 }
 
-.home__sub {
-  margin-bottom: 2rem;
+.home__title {
+  font-family: var(--font-display);
+  font-size: clamp(2.75rem, 1.8rem + 4vw, 4rem);
+  font-weight: 400;
+  letter-spacing: 0;
+  margin-bottom: 0.25rem;
 }
 
 .home__cta {

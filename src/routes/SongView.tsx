@@ -1,5 +1,5 @@
 import { Link, useParams } from "react-router-dom";
-import { allSongs, categorySlug, songsBySlug } from "../lib/songs";
+import { allSongs, categorySlug, lyricsWithoutTitle, songsBySlug } from "../lib/songs";
 import { Ornament } from "../components/Ornament";
 
 export function SongView() {
@@ -35,7 +35,7 @@ export function SongView() {
         <span className="song__page">p. {song.page}</span>
       </h1>
 
-      <pre className="song__lyrics">{song.transcription}</pre>
+      <pre className="song__lyrics">{lyricsWithoutTitle(song)}</pre>
 
       {song.audio_url && (
         <audio

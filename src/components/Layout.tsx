@@ -1,11 +1,11 @@
 import type { ReactNode } from "react";
-import { Header } from "./Header";
 import { BottomNav } from "./BottomNav";
+import { FloatingNav } from "./FloatingNav";
 
 export function Layout({ children }: { children: ReactNode }) {
   return (
     <div className="app">
-      <Header />
+      <FloatingNav />
       <main className="app__main">{children}</main>
       <BottomNav />
     </div>

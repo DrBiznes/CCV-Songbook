@@ -8,7 +8,7 @@ export function About() {
         <h1>The Camp Cherry Valley Songbook</h1>
       </header>
       <p>
-        A digital edition of the 1923 Camp Cherry Valley songbook. The text has been
+        A digital edition of the Camp Cherry Valley songbook. The text has been
         transcribed from photographs of the original pages.
       </p>
       <p>

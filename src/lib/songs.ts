@@ -50,3 +50,32 @@ export function categorySlug(category: string): string {
 export function categoryFromSlug(slug: string): string | undefined {
   return categories().find((c) => categorySlug(c) === slug);
 }
+
+function normalize(s: string): string {
+  return s.toLowerCase().replace(/[^a-z0-9]+/g, "");
+}
+
+function commonPrefixLen(a: string, b: string): number {
+  let i = 0;
+  const max = Math.min(a.length, b.length);
+  while (i < max && a[i] === b[i]) i++;
+  return i;
+}
+
+export function lyricsWithoutTitle(song: Song): string {
+  const text = song.transcription;
+  if (!text) return text;
+  const splitIdx = text.indexOf("\n\n");
+  if (splitIdx === -1) return text;
+  const header = text.slice(0, splitIdx);
+  const rest = text.slice(splitIdx + 2);
+  const nh = normalize(header);
+  const nt = normalize(song.title);
+  if (!nh || !nt) return text;
+  const cp = commonPrefixLen(nh, nt);
+  const shorter = Math.min(nh.length, nt.length);
+  if (cp >= 5 && cp / shorter >= 0.6) {
+    return rest.replace(/^\s+/, "");
+  }
+  return text;
+}
