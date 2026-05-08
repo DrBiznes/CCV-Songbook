@@ -1,0 +1,16 @@
+{
+  "title": "Oh My Aunt Came Back",
+  "category": "Repeat After Me Songs",
+  "page": 10,
+  "source_page_range": "9-10",
+  "source_page_file": "_scrape/ocr/pages/pages-009-010.json",
+  "source_photo_filename": "image copy 7.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 7.png",
+  "transcription": "Oh My Aunt Came Back\nA 'repeat after me' song with actions\n\nOh my aunt came back, (audience repeats)\nFrom old Japan, (repeat)\nAnd she brought with her (repeat)\nA big hand fan. (repeat and commence\naction of hand fan)\n\nRepeat with other verses and actions such as:\nTimbuktu: Gum to chew\nThe County Fair: A Rocking\nOld Nepal: A Ping-Pong Ball\nMount Moran: A Ceiling Fan\nLast Verse: Kalamazoo: SOME NUTS\nLIKE YOU!",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription; small italic directions and playful spellings are uncertain.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

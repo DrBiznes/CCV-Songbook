@@ -1,0 +1,16 @@
+{
+  "title": "Eight Apples and Bananas",
+  "category": "Repeat After Me Songs",
+  "page": 10,
+  "source_page_range": "9-10",
+  "source_page_file": "_scrape/ocr/pages/pages-009-010.json",
+  "source_photo_filename": "image copy 7.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 7.png",
+  "transcription": "Eight Apples and\nBananas\n\nI want to eat, I want to eat\nEight apples and bananas;\nI want to eat, I want to eat\nEight apples and bananas.\n\n(Change vowel on each repetition,\ni.e. a hole to hit, etc)",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription; small italic directions and playful spellings are uncertain.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

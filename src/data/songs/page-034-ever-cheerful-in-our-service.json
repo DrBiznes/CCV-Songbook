@@ -1,0 +1,16 @@
+{
+  "title": "Ever Cheerful in Our Service",
+  "category": "Hiking / Scouting Songs",
+  "page": 34,
+  "source_page_range": "33-34",
+  "source_page_file": "_scrape/ocr/pages/pages-33-34.json",
+  "source_photo_filename": "image copy 20.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 20.png",
+  "transcription": "Ever Cheerful In Our Service\n\nEver cheerful in our service\nScouting's torch to guide our way,\nOthers need before our own,\nWe lead them to a glorious day.\n\nCherry Valley Staff we stand together\nUnified we can not fail.\nMen together building manhood,\nBrothers on the scouting trail.\n\nBuild the road of peace before us\nBuild it wide and deep and long,\nSpeed the slow and check the eager,\nHelp the weak and curb the strong.\n\nNone shall push aside another\nNone shall let another fall.\nStand beside me oh my brother,\nAll for one, and one for all.",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription from photographed page spread. Nonsense syllables in 'Hucka' are especially uncertain.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

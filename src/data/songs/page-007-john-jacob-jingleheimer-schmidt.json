@@ -1,0 +1,16 @@
+{
+  "title": "John Jacob Jingleheimer Schmidt",
+  "category": "Action/Countdown Songs",
+  "page": 7,
+  "source_page_range": "7-8",
+  "source_page_file": "_scrape/ocr/pages/pages-007-008.json",
+  "source_photo_filename": "image copy 6.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 6.png",
+  "transcription": "John Jacob Jingleheimer\nSchmidt\n\nJohn Jacob Jingleheimer Schmidt, that's\nmy name too,\nWhenever I go out, the people always\nshout:\n\"There goes John Jacob Jingleheimer\nSchmidt!\"\n\nCaye-aye-aye-aye-aye-aye.\n\nGet softer with the verse and louder\nwith the \"Caye-aye's\" each time until\nverse is barely audible. Then end with\none last shout.",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription; some syllabic spellings and italic directions may need verification.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

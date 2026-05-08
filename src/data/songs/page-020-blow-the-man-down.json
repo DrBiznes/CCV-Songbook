@@ -1,0 +1,16 @@
+{
+  "title": "Blow the Man Down",
+  "category": "Songs of the Sea",
+  "page": 20,
+  "source_page_range": "19-20",
+  "source_page_file": "_scrape/ocr/pages/page-019-020.json",
+  "source_photo_filename": "image copy 12.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 12.png",
+  "transcription": "Blow the Man Down\n\nI'll sing you a song, a good song of the sea\nWith a way! Hey! Blow the man down!\nAnd trust that you'll join\nin the chorus with me\nGive me some time\nto blow the man down.\n\nThere was an old skipper;\nI don't know his name\nWith a way! Hey! Blow the man down!\nAlthough he once played a remarkable game\nGive me some time to blow the man down.\n\nHis ship lay becalmed in the tropical seas\nWith a way! Hey! Blow the man down!\nHe whistled all day, but in vain for a breeze\nGive me some time to blow the man down.",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription from a clear two-page scan. Some punctuation and example bean names are uncertain.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

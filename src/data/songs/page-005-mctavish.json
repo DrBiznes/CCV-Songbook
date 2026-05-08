@@ -1,0 +1,16 @@
+{
+  "title": "McTavish",
+  "category": "Action/Countdown Songs",
+  "page": 5,
+  "source_page_range": "5-6",
+  "source_page_file": "_scrape/ocr/pages/pages-005-006.json",
+  "source_photo_filename": "image copy 5.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 5.png",
+  "transcription": "McTavish\n\nMcTavish is dead and his brother don't\nknow it;\nHis brother is dead and McTavish\ndon't know it.\nThey're both of them dead in the very\nsame bed,\nAnd neither one knows that the other\nis dead.\n\nBag Pipe Refrain:\n\nget faster and faster each verse, adding an\nIrish jig for excitement",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription; several small notes and dialect/chant spellings are uncertain.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

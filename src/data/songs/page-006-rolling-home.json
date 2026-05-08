@@ -1,0 +1,16 @@
+{
+  "title": "Rolling Home",
+  "category": "Action/Countdown Songs",
+  "page": 6,
+  "source_page_range": "5-6",
+  "source_page_file": "_scrape/ocr/pages/pages-005-006.json",
+  "source_photo_filename": "image copy 5.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 5.png",
+  "transcription": "Rolling Home\n\nI've got Six-pence, jolly jolly six-pence,\nI've got six-pence, to last me all my life,\nI've got two-pence to spend,\nand two-pence to lend,\nand two-pence to take home to my\nwife (poor wife).\n\nNo cares have I to grieve me,\nno pretty little girls to deceive me.\nI'm happy as a lark, believe me,\nas we go rolling, rolling home.\n\nRolling home, rolling home,\nby the light of the silvery moon,\nhappy is the day,\nwhen the sailor gets his pay,\nas we go rolling, rolling home.\n\nGo from six-pence to four-pence, to two-pence,\nto no-pence, gradually putting 'no' in front of\nthe items that contribute money, beginning\nwith the poor wife.",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription; several small notes and dialect/chant spellings are uncertain.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Top Notcher",
+  "category": "Action/Countdown Songs",
+  "page": 4,
+  "source_page_range": "3-4",
+  "source_page_file": "_scrape/ocr/pages/pages-003-004.json",
+  "source_photo_filename": "image copy 4.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 4.png",
+  "transcription": "Top Notcher\nAction song\n\nI points to myself \"Vat is elast, here?\"\nDist istmy — yah mammedic.\nyah mammedic, that's vat I\nlearned in der school, boom-boom.\n\n...Top Notcher, (head)\n...Sweat Browser, (forehead)\n...Eye Winker, (eye)\n...Soup Strainer, (mustache)\n...Lunch Eater, (mouth)\n...Chin Chosser, (chin)\n...Rubber Necker, (neck)\n...Chest Protector, (chest)\n...Bread Basket, (belly)\n...Baby bouncer, (knee)\n...Ball kicker, (foot)\n\nThis is a 'head, shoulders, knees and toes' type\nsong in which you point to the corresponding\npart as you sing about it. Sing through all the\nprevious parts as you add new ones, adding\nthe yah mammedic - at the end of the list to\nfinish off the verse.",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription; dialect spellings and small italic instructions are uncertain in places.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "The Happy Wanderer",
+  "category": "Hiking / Scouting Songs",
+  "page": 35,
+  "source_page_range": "35-36",
+  "source_page_file": "_scrape/ocr/pages/pages-35-36.json",
+  "source_photo_filename": "image copy 21.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 21.png",
+  "transcription": "The Happy Wanderer\n\nI love to go a wandering\nalong the mountain track,\nAnd as I go, I love to sing,\nmy knapsack on my back.\n\nChorus:\nVal de ri, val de ra, val de ri, val de\nra ha ha ha ha ha\nVal de ri, val de ra,\nMy knapsack on my back.\n\nI love to wander by the stream\nthat dances in the sun,\nSo joyously it calls to me,\n\"Come join my happy song\"\n\nChorus\n\nI wave my hat to all I meet,\nand they wave back to me,\nAnd blackbirds call so loud and sweet\nfrom every greenwood tree.\n\nChorus\n\nHigh overhead the skylarks wing,\nthey never rest at home\nFor just like me, they love to sing\nas o'er the world they roam.\n\nChorus\n\nOh may I go a wandering,\nuntil the day I die.\nOh, may I always laugh and sing,\nbeneath God's clear blue sky.\n\nChorus",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription from photographed page spread. Page 36 is sparse and relatively clear.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

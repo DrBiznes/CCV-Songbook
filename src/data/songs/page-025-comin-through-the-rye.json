@@ -1,0 +1,16 @@
+{
+  "title": "Comin' Through the Rye",
+  "category": "Celtic/Folk Songs",
+  "page": 25,
+  "source_page_range": "25-26",
+  "source_page_file": "_scrape/ocr/pages/image-copy-15.json",
+  "source_photo_filename": "image copy 15.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 15.png",
+  "transcription": "Comin' Through the Rye\n\nIf a body meet a body\nComin' through the rye\nIf a body kiss a body\nNeed a body cry?\n\nChorus:\nEv'ry lassie has her laddie\nNane, they say, ha' I\nYet all the lads they smile on me\nWhen comin' through the rye\n\nIf a body meet a body\nComin' from the town\nIf a body greet a body\nNeed a body frown?\n\nChorus",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription from photographed page spread. Some small words are uncertain because of image softness, especially in McPhearson's Farewell and Woad.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

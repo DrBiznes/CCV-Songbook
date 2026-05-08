@@ -1,0 +1,16 @@
+{
+  "title": "Zulu Warrior",
+  "category": "Rounds/Split Group Songs",
+  "page": 14,
+  "source_page_range": "13-14",
+  "source_page_file": "_scrape/ocr/pages/page-013-014.json",
+  "source_photo_filename": "image copy 9.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 9.png",
+  "transcription": "Zulu Warrior\nSplit Group\n\nI come a Zimba, Zimba-Zaiah,\nI come a Zimba, Zimba-Zee,\nI come a Zimba, Zimba-Zaiah,\nI come a Zimba, Zimba-Zee.\n\nSee him there, the Zulu Warrior,\nSee him there, the Zulu Chief, chief,\nchief, chief.\n\nOne half of group sings verse again, while\nother half chants 'Chief' to give three rhythm.\nRepeat twice, having groups switch roles.",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription from a clear two-page scan. Some small instructional text and dialect spellings may need verification.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

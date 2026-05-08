@@ -1,0 +1,16 @@
+{
+  "title": "We are the Boys from Cherry",
+  "category": "Hiking / Scouting Songs",
+  "page": 34,
+  "source_page_range": "33-34",
+  "source_page_file": "_scrape/ocr/pages/pages-33-34.json",
+  "source_photo_filename": "image copy 20.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 20.png",
+  "transcription": "We are the boys from Cherry\n\nWe are the boys from Cherry\nThat you've heard so much about.\nThe people stop and stare at us\nWhenever we go out.\nWe aren't a bit stuck up,\nAnd we always have a laugh. (Ha ha)\nWe are the boys, we are the boys\nFrom good old Cherry staff.\nAs we go marching\nAnd the band begins to P L A Y\nYou can hear us shouting,\nThe Cherry Valley Staff is on their way.",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription from photographed page spread. Nonsense syllables in 'Hucka' are especially uncertain.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

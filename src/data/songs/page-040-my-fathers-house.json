@@ -1,0 +1,16 @@
+{
+  "title": "My Father's House",
+  "category": "Quiet Songs/Spirituals",
+  "page": 40,
+  "source_page_range": "39-40",
+  "source_page_file": "_scrape/ocr/pages/image-copy-23.json",
+  "source_photo_filename": "image copy 23.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 23.png",
+  "transcription": "My Father's House\n\nOh won't you come with me,\nTo my father's house\nTo my father's house\nTo my father's house,\nOh won't you come with me,\nTo my father's house\nThere is peace, peace, peace.\n\nThere's sweet contentment there,\nIn my father's house...\n\nThere'll be no parting there,\nIn my father's house...\n\n(End with repeat of first verse)",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription from photographed page spread. Page heading is faint; title inferred from the visible spirituals continuing from prior spread.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Nursery Rhyme Song",
+  "category": "Call-Out-a-Verse Songs",
+  "page": 16,
+  "source_page_range": "15-16",
+  "source_page_file": "_scrape/ocr/pages/page-015-016.json",
+  "source_photo_filename": "image copy 10.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 10.png",
+  "transcription": "Nursery Rhyme Song\n\nChorus:\nThey bonged it out the window,\nThe second story window,\nHigh low, low high,\nThey bonged it out the window\n\nNursery rhymes as the verses, two teams can\ncompete to see who can come up with the most\nnursery rhymes. Everyone joins in on chorus.",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription from a clear two-page scan. Several nonsense/phonetic words are uncertain.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

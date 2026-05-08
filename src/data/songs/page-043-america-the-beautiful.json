@@ -1,0 +1,16 @@
+{
+  "title": "America, the Beautiful",
+  "category": "Patriotic Songs",
+  "page": 43,
+  "source_page_range": "43-44",
+  "source_page_file": "_scrape/ocr/pages/image-copy-25.json",
+  "source_photo_filename": "image copy 25.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 25.png",
+  "transcription": "America, the Beautiful\n\nO, beautiful for spacious skies,\nFor amber waves of grain,\nFor purple mountain majesties,\nAbove the fruited plain.\nAmerica! America!\nGod shed His Grace on thee,\nAnd crown thy good with brotherhood\nFrom sea to shining sea.\n\nO, beautiful for pilgrim feet,\nWhose stern, impassioned stress,\nA thoroughfare for freedom beat,\nAcross the wilderness!\nAmerica! America!\nGod mend thine ev'ry flaw,\nConfirm thy soul in self-control,\nThy liberty in law!\n\nO, beautiful for heroes proved,\nIn liberating strife,\nWho more than self their country loved,\nAnd mercy more than life!\nAmerica! America!\nMay God thy gold refine,\nTill all success be nobleness,\nAnd every gain divine!\n\nO, beautiful for patriot dream,\nThat sees, beyond the years,\nThine alabaster cities gleam,\nUndimmed by human tears.\nAmerica! America!\nGod shed His Grace on thee,\nAnd crown thy good with brotherhood\nFrom sea to shining sea.",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription from photographed page spread. The Battle Hymn title appears visually compressed in the photo; expanded in title text.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

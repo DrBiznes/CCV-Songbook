@@ -1,0 +1,16 @@
+{
+  "title": "Guide My Feet",
+  "category": "Quiet Songs/Spirituals",
+  "page": 38,
+  "source_page_range": "37-38",
+  "source_page_file": "_scrape/ocr/pages/pages-37-38.json",
+  "source_photo_filename": "image copy 22.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 22.png",
+  "transcription": "Guide my Feet\n\nGuide my feet,\nI'm gonna run this race.",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription from photographed page spread. Abbreviated transcription due image softness; visible songs include Softly Falls, Taps, Plenty Good Room, On My Honor, Angels Watchin' Over Me, Go Down Moses, Jacob's Ladder, and Guide my Feet.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

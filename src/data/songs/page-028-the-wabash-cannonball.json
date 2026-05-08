@@ -1,0 +1,16 @@
+{
+  "title": "The Wabash Cannonball",
+  "category": "Celtic/Folk Songs",
+  "page": 28,
+  "source_page_range": "27-28",
+  "source_page_file": "_scrape/ocr/pages/pages-27-28.json",
+  "source_photo_filename": "image copy 17.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 17.png",
+  "transcription": "The Wabash Cannonball\n\nFrom the Great Atlantic Ocean\nTo the wide Pacific shore\nFrom the queen of flowing mountains\nTo the southland by the shore\nShe's a-mighty tall and handsome\nAnd known quite well by all\nShe's the mighty engine of\nThe Wabash Cannonball\n\nGreat cities of importance\nWe see along the way\nChicago and St. Louis\nRock Island, so they say\nSpringfield and Decatur\nPeoria above all\nYou can reach your destination\nOn the Wabash Cannonball\n\nThis train, she runs to Quincy\nMonroe and Mexico\nShe runs to Kansas City\nAnd she's never running slow\nShe runs right into Denver\nWhere she makes an awful squall\nThey all know the whistle\nShe's the Wabash Cannonball\n\nThere's many other cities\nThat you can go and see\nSt. Paul and Minneapolis\nAshabula, Kankakee\nThe lakes of Minnehaha\nWhere the laughing waters fall\nYou'll reach them by no other\nBut the Wabash Cannonball\n\nSo, listen to the jingle\nThe rumble and the roar\nAs she glides along the woodland\nThrough the hills and by the shore\nHear the mighty rush of the engine\nHear the lonesome hobo call\nYou're traveling through the jungles on\nThe Wabash Cannonball\nYou're traveling through the jungles on\nThe Wabash Cannonball",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription from photographed page spread. Some punctuation and words are uncertain due to image softness.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

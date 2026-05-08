@@ -1,0 +1,16 @@
+{
+  "title": "Three Little Angels",
+  "category": "Action/Countdown Songs",
+  "page": 3,
+  "source_page_range": "3-4",
+  "source_page_file": "_scrape/ocr/pages/pages-003-004.json",
+  "source_photo_filename": "image copy 4.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 4.png",
+  "transcription": "Three Little Angels\n\nThree little angels, all dressed in white,\ntrying to get to heaven on the end of a kite,\nwell the kite string broke, and down they fell,\ninstead of gettin' to heaven, they went to...\n\nTwo little angels, all dressed in white...\n\nafter one, begin again with:\nThree little devils, all dressed in red,\ntrying to get to heaven on the end of a thread,\nwell the thread broke and down they fell,\ninstead of gettin' to heaven, they went to...\n\ncontinue as before and switch to:\nThree little staffers, all dressed in blue,\ntrying to get to heaven in a big war canoe,\nwell it got swamped, and down they fell,\ninstead of gettin' to heaven, they went to...\n\nEnd with:\nDon't get excited, don't loose your head,\ninstead of gettin' to heaven, they went to bed.",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription; dialect spellings and small italic instructions are uncertain in places.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

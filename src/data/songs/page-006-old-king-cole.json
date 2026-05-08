@@ -1,0 +1,16 @@
+{
+  "title": "Old King Cole",
+  "category": "Action/Countdown Songs",
+  "page": 6,
+  "source_page_range": "5-6",
+  "source_page_file": "_scrape/ocr/pages/pages-005-006.json",
+  "source_photo_filename": "image copy 5.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 5.png",
+  "transcription": "Old King Cole\nA progression song\n\nOld King Cole was a merry old soul\nand a merry old soul was he,\nHe called for his pipe\nand he called for his bowl\nand he called for his:\n\nPrivates three:\n'Rooty-Tooty-Tooty-Toot'\nsay the Privates\n\nending chorus:\nMerry Men are we,\nand there's none so fair\nas can compare, to the boys\nfrom old Cherry.\n\nSergeants three:\n'Heeeeyyyy-up' say the Sergeants\n'Rooty-Tooty-Tooty-Tooty-Toot'\nsay the Privates\n\nCaptains three:\n'We want leave for a year!' say the Captains\n'Heeeeyyyy-up' say the Sergeants\n'Rooty-Tooty-Tooty-Tooty-Toot'\nsay the Privates\n\nGenerals three:\n'Where's my big white horse!' say the Generals\n'We want leave for a year!' say the Captains\n'Heeeeyyyy-up' say the Sergeants\n'Rooty-Tooty-Tooty-Tooty-Toot'\nsay the Privates\n\nStart each verse with Old King Cole... and\nend with 'Merry Men are we...'\nThe crowd can be broken into smaller groups,\nand each group assigned a 'Rooty' etc. pri-\nvates, sergeants, etc) to repeat.",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription; several small notes and dialect/chant spellings are uncertain.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

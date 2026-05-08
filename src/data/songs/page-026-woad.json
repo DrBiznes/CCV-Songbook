@@ -1,0 +1,16 @@
+{
+  "title": "Woad",
+  "category": "Celtic/Folk Songs",
+  "page": 26,
+  "source_page_range": "25-26",
+  "source_page_file": "_scrape/ocr/pages/image-copy-15.json",
+  "source_photo_filename": "image copy 15.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 15.png",
+  "transcription": "Woad\n\nWhat's the use of wearing braces\nhats and pants and boots and laces?\nThese are things you buy in places\ndown on Brampton road.\nWhat's the use of shirts of cotton,\nstuds that always get forgotten?\nThings like these are simply rotten.\nBetter far is Woad.\n\nWoad's the stuff you showman.\nWoad to scare your foe man.\nBoil it to a brilliant blue\nand rub it on your back and your abdomen.\nAncient Britain never hit on\nanything as good as woad to fit on\nNeck or knee or where you sit on,\ntailors you be blowed.\n\nRomans came across the channel\nall dressed up in tin and flannel\nHalf a pint of woad per mannel\ndress you more than these.\nSaxons you can waste your stitches\nbuilding beds for bugs in britches\nWe have woad to clothe us witches\nnot a nest for fleas.\n\nRomans keep you armors,\nSaxons your pajamees\nHairy coats were made for goats, gorillas, yaks, retriever dogs, and llamas.\nMarch up snowdens with your woad on\nnever mind if you get rained or snowed on,\nNever want a button sewed on.\nGo it ancient Bs.",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription from photographed page spread. Some small words are uncertain because of image softness, especially in McPhearson's Farewell and Woad.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

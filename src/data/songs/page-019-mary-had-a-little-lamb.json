@@ -1,0 +1,16 @@
+{
+  "title": "Mary Had a Little Lamb",
+  "category": "Call-Out-a-Verse Songs",
+  "page": 19,
+  "source_page_range": "19-20",
+  "source_page_file": "_scrape/ocr/pages/page-019-020.json",
+  "source_photo_filename": "image copy 12.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 12.png",
+  "transcription": "Mary Had a Little\nLamb\n\nLeader:\nMary had a little lamb,\nits fleece was white as snow.\nGroup:\nShouting out the battle cry of freedom.\nLeader:\nAnd every where that Mary went,\nthat lamb was sure to go.\nGroup:\nShouting out the battle cry of freedom.\n\nChorus (All):\nHurrah for the Mary,\nhurrah for the lamb,\nhurrah for the teacher\nWho didn't give a\nParticle if all the lambs in Idaho\nwent marching down to school,\nShouting out the battle cry of freedom.\n\nOther lines:\n...she put it on the shelf,\n...and every time it turned around,\nit spanked its little self.\n\n...she tied it to the heater\n...and every time it turned around,\nit burned its little seater.\n\n...she put it in the closet\n...and every time that Mary looked,\nit left a fresh deposit.\n\n...a mosquito loves a hairless man,\nwith him he's quite at home.\n...no finer pasture can be found\nthan on that bald man's dome.\n\n...I coat my legs with honey,\neach day a half a cup.\n...it makes my legs quite sticky,\nbut it keeps my stockings up.\n\n...I eat my peas with honey,\nI've done it all my life.\n...it makes my peas taste funny,\nbut it keeps them on my knife.\n\n...The lightning bug is very dumb,\nhe hasn't any mind.\n...he travels all the way through life\nwith his headlight on behind.",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription from a clear two-page scan. Some punctuation and example bean names are uncertain.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "McPhearson's Farewell",
+  "category": "Celtic/Folk Songs",
+  "page": 25,
+  "source_page_range": "25-26",
+  "source_page_file": "_scrape/ocr/pages/image-copy-15.json",
+  "source_photo_filename": "image copy 15.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 15.png",
+  "transcription": "McPhearson's Farewell\n\nFarewell ye dungeons dark and strong,\nfarewell, farewell to thee.\nMcPhearson's time will may be lang\non yonder gallows tree.\n\nChorus:\nSay wantonly, say wantonly,\nsay dauntingly gaed he\nFor he played a tune as he dance\naround below the gallows tree.\n\nLittle did me mither think\nwhen she did cradle me,\nThat I would turn a roving boy\nand die on yonder tree.\n\nChorus\n\nFor it's by a woman's treacherous hand\nthat I'm condemned to die.\nBelow the ledge o'er the window she stood,\na blanket she threw o'er me.\n\nChorus\n\nWell some come here to see me hung,\nand some to buy my fiddle.\nBefore I would part with her\nI'd break her through the middle.\n\nChorus\n\nI took my fiddle in both my hands\nand broke her o'er a stone.\nThere's none that shall play on thee\nwhen I am dead and gone.\n\nChorus\n\nWhen his reprieve was coming o'er\nto set McPhearson free\nThey put the clock a quarter fore\nand hung him to a tree.\n\nChorus\n\nFarewell ye dungeons dark and strong,\nfarewell, farewell to thee.\nMcPhearson's time will may be lang\non yonder gallows tree.\n\nChorus",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription from photographed page spread. Some small words are uncertain because of image softness, especially in McPhearson's Farewell and Woad.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Father Abraham",
+  "category": "Action/Countdown Songs",
+  "page": 2,
+  "source_page_range": "1-2",
+  "source_page_file": "_scrape/ocr/pages/pages-001-002.json",
+  "source_photo_filename": "image copy 3.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 3.png",
+  "transcription": "Father Abraham\nAction song\n\nFather Abraham had seven sons,\nSeven sons had Father Abraham,\nFirst he laughed ha ha!\nThen he cried boo hoo!\nAll he did was go like this with a left\n(arm)\n\n(right [arm], left [foot], right [foot],\nand the hips, turn around)",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription; small action symbols omitted and some italic instructions may need verification.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

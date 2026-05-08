@@ -1,0 +1,16 @@
+{
+  "title": "Rock-a-my-Soul",
+  "category": "Rounds/Split Group Songs",
+  "page": 15,
+  "source_page_range": "15-16",
+  "source_page_file": "_scrape/ocr/pages/page-015-016.json",
+  "source_photo_filename": "image copy 10.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 10.png",
+  "transcription": "Rock-a-my-Soul\nThree part round\n\nRock-a-my soul\nin the bosom of Abraham\nRock-a my soul\nin the bosom of Abraham\nRock-a my soul\nin the bosom of Abraham,\nOh rock-a my soul!\n\nI'm singin'\nSo high, can't get over it,\nso low, can't get under it,\nso wide, can't get around it,\nOh rock-a my soul!\n\nI'm singin'\nRock my soul,\nRock my soul,\nRock my soul,\nOh rock-a my soul!\n\nSing all three verses together, then have three\ngroups, each starting on a different verse, sing\nthrough all three verses.",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription from a clear two-page scan. Several nonsense/phonetic words are uncertain.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

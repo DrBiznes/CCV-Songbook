@@ -1,0 +1,16 @@
+{
+  "title": "Angels Watchin' Over Me",
+  "category": "Quiet Songs/Spirituals",
+  "page": 37,
+  "source_page_range": "37-38",
+  "source_page_file": "_scrape/ocr/pages/pages-37-38.json",
+  "source_photo_filename": "image copy 22.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 22.png",
+  "transcription": "",
+  "notes": "Draft song-level placeholder created from the category index. The source page JSON did not contain a recognizable title heading or full transcription for this song. Source page note: Draft visual transcription from photographed page spread. Abbreviated transcription due image softness; visible songs include Softly Falls, Taps, Plenty Good Room, On My Honor, Angels Watchin' Over Me, Go Down Moses, Jacob's Ladder, and Guide my Feet.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "needs_transcription"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Old Noah",
+  "category": "Fun Songs",
+  "page": 32,
+  "source_page_range": "31-32",
+  "source_page_file": "_scrape/ocr/pages/pages-31-32.json",
+  "source_photo_filename": "image copy 19.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 19.png",
+  "transcription": "Old Noah\n\nThe Lord said to Noah\n\"there's going to be a floody, floody,\"\nLord said to Noah\n\"there's going to be a floody, floody;\nEverything is gonna get muddy, muddy,\"\nChildren of the Lord.\n\nRefrain (sung between verses):\nSo rise and shine,\nand give out your glory glory,\nRise and shine and give out your glory,\nglory,\nEverything is hunky dory, dory,\nChildren of the Lord.\n\nOld Noah he built him,\nhe built him an arky, arkey,\nNoah he built him,\nhe built him an arkey, arkey,\nBuilt it out of hickory barky, barky,\nChildren of the Lord.\n\nHe marched in the animals by two-sies,\nby two-sies two-sies,\nMarched in the animals by two-sies,\nby two-sies two-sies,\nElephants and kangaroo-sies, roo-sies,\nChildren of the Lord.\n\nIt rained and poured\nfor forty daysies, daysies,\nRained and poured for\nforty daysies, daysies,\nNearly drove those\nanimals crazy, crazy,\nChildren of the Lord.\nThe sun came out\nand dried up the landy, landy,\nSun came out and dried up\nthe landy, landy,\nEverything was\nfine and dandy, dandy,\nChildren of the Lord.\n\nHe marched out the animals\nby three-sies, by three-sies, three-sies,\nMarched out the animals\nby three-sies, by three-sie, three-sies,\nComes from them old\nbirds and bee-sies, bee-sies,\nChildren of the Lord.\n\nNow this is the end of,\nthe end of my story, story,\nThis is the end of,\nthe end of my story, story,\nEverything is hunky dory, dory,\nChildren of the Lord.",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription from photographed page spread. Several climbing terms on page 31 are difficult to read and may need verification.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

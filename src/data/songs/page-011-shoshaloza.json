@@ -1,0 +1,16 @@
+{
+  "title": "Shoshaloza",
+  "category": "Repeat After Me Songs",
+  "page": 11,
+  "source_page_range": "11-12",
+  "source_page_file": "_scrape/ocr/pages/pages-011-012.json",
+  "source_photo_filename": "image copy 8.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 8.png",
+  "transcription": "Shoshaloza\n\ncaller: Shoshaloza\nsingers: Shoshaloza, kulia zuntabe,\nstimela, pume Catalina.\n\ncaller: Tsepo Gabaleka\nsingers: Tsepo Gabaleka, kulia zuntabe,\nstimela, pume Catalina.\n\ncaller: Weno Usabenza\nsingers: Weno Usabenza, kulia zuntabe,\nstimela, pume Catalina.",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription; non-English refrain spellings and small repeat marks should be verified.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

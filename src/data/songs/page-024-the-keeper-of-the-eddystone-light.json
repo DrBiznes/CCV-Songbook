@@ -1,0 +1,16 @@
+{
+  "title": "The Keeper of the Eddystone Light",
+  "category": "Songs of the Sea",
+  "page": 24,
+  "source_page_range": "23-24",
+  "source_page_file": "_scrape/ocr/pages/page-023-024.json",
+  "source_photo_filename": "image copy 14.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 14.png",
+  "transcription": "",
+  "notes": "Draft song-level placeholder created from the category index. The source page JSON did not contain a recognizable title heading or full transcription for this song. Source page note: Draft visual transcription placeholder; image was visually inspected and page range is clear.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "needs_transcription"
+  }
+}

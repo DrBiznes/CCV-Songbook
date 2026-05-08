@@ -1,0 +1,16 @@
+{
+  "title": "The Other Day (I met a bear)",
+  "category": "Repeat After Me Songs",
+  "page": 11,
+  "source_page_range": "11-12",
+  "source_page_file": "_scrape/ocr/pages/pages-011-012.json",
+  "source_photo_filename": "image copy 8.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 8.png",
+  "transcription": "The Other Day\n(I met a bear)\n\nLeader/ Group:\nThe other day, (repeat)\nI saw a bear\nA great big bear,\nA way up there\n\nTogether:\nThe other day,\nI saw a bear,\nA great big bear\na way up there\n\nI looked at him, (repeat)\nHe looked at me\nI sized up him,\nHe sized up me.\n\nTogether\n\nAnd then he said (repeat)\nWhy don't you run,\nI see you ain't\nGot any gun.\n\nTogether\n\nAnd so I ran\nAway from there\nBut right behind\nMe was that bear.\n\nTogether\n\nAhead of me,\nI saw a tree,\nA great big tree,\nOh, glory me.\n\nTogether\n\nAnd so I jumped\nInto the air.\nBut I missed that branch,\nA way up there.\n\nTogether\n\nNow don't you fret\nAnd don't you frown\nCause I caught that branch,\nOn the way back down.\n\nTogether\n\nThat's all there is\nThere ain't no more,\nUnless I meet\nThat bear once more.\n\nTogether",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription; non-English refrain spellings and small repeat marks should be verified.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Alice the Camel",
+  "category": "Action/Countdown Songs",
+  "page": 9,
+  "source_page_range": "9-10",
+  "source_page_file": "_scrape/ocr/pages/pages-009-010.json",
+  "source_photo_filename": "image copy 7.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 7.png",
+  "transcription": "Alice the Camel\n\nAlice the Camel has, five humps,\nAlice the Camel has, five humps,\nAlice the Camel has, five humps,\nSo go Alice go. (boom, boom, boom...)\n\n...Four humps,\n...Three humps,\n...Two humps\n...One hump,\n...No humps, so Alice is a horse!",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription; small italic directions and playful spellings are uncertain.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

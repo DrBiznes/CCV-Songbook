@@ -1,0 +1,16 @@
+{
+  "title": "America, America",
+  "category": "Rounds/Split Group Songs",
+  "page": 13,
+  "source_page_range": "13-14",
+  "source_page_file": "_scrape/ocr/pages/page-013-014.json",
+  "source_photo_filename": "image copy 9.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 9.png",
+  "transcription": "America, America\n2 part round\n\nAmerica, America\nHow can I tell you how I feel?\nYou have given me many treasures,\nI love you so.",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription from a clear two-page scan. Some small instructional text and dialect spellings may need verification.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

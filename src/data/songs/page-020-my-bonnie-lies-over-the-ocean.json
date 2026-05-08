@@ -1,0 +1,16 @@
+{
+  "title": "My Bonnie Lies Over the Ocean",
+  "category": "Songs of the Sea",
+  "page": 20,
+  "source_page_range": "19-20",
+  "source_page_file": "_scrape/ocr/pages/page-019-020.json",
+  "source_photo_filename": "image copy 12.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 12.png",
+  "transcription": "My Bonnie Lies Over\nthe Ocean\n\nMy bonnie lies over the ocean\nMy bonnie lies over the sea\nMy bonnie lies over the ocean\nOh, bring back my bonnie to me\n\nBring back, bring back\nOh! Bring back my bonnie to me to me\nBring back, bring back\nOh, bring back my bonnie to me.",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription from a clear two-page scan. Some punctuation and example bean names are uncertain.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

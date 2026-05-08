@@ -1,0 +1,16 @@
+{
+  "title": "Cockles and Mussels",
+  "category": "Celtic/Folk Songs",
+  "page": 27,
+  "source_page_range": "27-28",
+  "source_page_file": "_scrape/ocr/pages/pages-27-28.json",
+  "source_photo_filename": "image copy 17.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 17.png",
+  "transcription": "Cockles and Mussels\n\nIn Dublin's fair city\nWhere girls are so pretty\n'Twas there I first met\nWith sweet Molly Malone\nShe drove a wheelbarrow\nThrough the streets broad and narrow\nCrying \"Cockles and mussels,\nalive, alive-o\"\n\nChorus:\n\"Alive, alive-o, alive, alive-o\nCrying \"Cockles and mussels,\nalive, alive-o\"\n\nShe was a fishmonger\nBut sure 'twas no wonder\nFor so were her mother\nAnd father before\nThey drove their wheelbarrows\nThrough the streets broad and narrow\nCrying \"Cockles and mussels,\nalive, alive-o\"\n\nChorus\n\nShe died of a fever\nAnd nothing could save her\nAnd that was the end of\nSweet Molly Malone\nBut her ghost wheels a barrow\nThrough the streets broad and narrow\nCrying Cockles and mussels,\nalive, alive-o\n\nRepeat chorus twice",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription from photographed page spread. Some punctuation and words are uncertain due to image softness.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

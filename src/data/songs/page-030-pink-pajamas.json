@@ -1,0 +1,16 @@
+{
+  "title": "Pink Pajamas",
+  "category": "Fun Songs",
+  "page": 30,
+  "source_page_range": "29-30",
+  "source_page_file": "_scrape/ocr/pages/pages-29-30.json",
+  "source_photo_filename": "image copy 18.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 18.png",
+  "transcription": "Pink Pajamas\n\nOh, I wear my pink pajamas\nIn the summer when it's hot.\nI wear my flannel nighty\nIn the winter when it's not.\nAnd sometimes in the springtime\nand sometimes in the fall,\nI jump between the sheets\nwith nothin' on at all!\n\nGlory, glory hallelujah,\nglory, glory, what's it to ya?\nBalmy breezes blowin' through ya',\nwith nothing on at all!",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription from photographed page spread. Some proper names and dialect spellings are uncertain.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

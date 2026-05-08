@@ -1,0 +1,16 @@
+{
+  "title": "Bill Grogan's Goat",
+  "category": "Repeat After Me Songs",
+  "page": 10,
+  "source_page_range": "9-10",
+  "source_page_file": "_scrape/ocr/pages/pages-009-010.json",
+  "source_photo_filename": "image copy 7.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 7.png",
+  "transcription": "Bill Grogan's Goat\n\nBill Grogan's goat, (repeat after each line)\nWas doing fine,\nAte three red shirts,\nRight off the line,\nBill Grogan came,\nGave him a whack,\nAnd tied him to,\nThe railroad track,\nThe whistle blew,\nThe train grew nigh,\nBill Grogan's goat,\nWas doomed to die.\nHe gave a groan,\nOf awful pain,\nCoughed up those shirts,\nAnd flagged the train!",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription; small italic directions and playful spellings are uncertain.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

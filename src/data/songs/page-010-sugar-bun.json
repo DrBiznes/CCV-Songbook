@@ -1,0 +1,16 @@
+{
+  "title": "Sugar Bun",
+  "category": "Repeat After Me Songs",
+  "page": 10,
+  "source_page_range": "9-10",
+  "source_page_file": "_scrape/ocr/pages/pages-009-010.json",
+  "source_photo_filename": "image copy 7.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 7.png",
+  "transcription": "Sugar Bun\n\nOh, I wish I were a little sugar bun,\nOh, I wish I were a little sugar bun\nOh, I'd slippy and I'd slidey\ndown everyone's insidey,\nOh, I wish I were a little sugar bun.\n\n...Fishey in the Sea,\nOh, I'd swimmy in the nudey, without\nmy bathing suitey.\n\n...Slippery Root,\nOh, I'd grab you by the feetie, and I'd\ndrop you on your seatie.\n\n...Bar of Soap,\nOh, I'd slippy and I'd slidey over every-\nbody's body.\n\n...Mosquito,\nOh, I'd stingie and I'd bitie under\neverybody's nightie.\n\n...English Sparrow,\nOh, I'd sit up on the steeple, and\ndeposit on the people.",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription; small italic directions and playful spellings are uncertain.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Susie",
+  "category": "Action/Countdown Songs",
+  "page": 8,
+  "source_page_range": "7-8",
+  "source_page_file": "_scrape/ocr/pages/pages-007-008.json",
+  "source_photo_filename": "image copy 6.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 6.png",
+  "transcription": "Susie\n\nWhere, oh where, oh where is Susie?\nWhere, oh where, oh where is Susie?\nWhere, oh where, oh where is Susie?\nWay down yonder in the paw-paw patch.\n\nChorus:\nPickin' up paw-paws\nputtin' 'em in the basket.\nPickin' up paw-paws\nputtin' 'em in the basket.\nPickin' up paw-paws\nputtin' 'em in the basket.\nWay down yonder\nin the paw-paw patch.\n\nOther verses:\nCome on boys, lets go find her...\nOh garsh ain't she ugly...\nBut she can do the Hula-hula...\nWe got married and had ten children...\nFive was ugly and five could hula...",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription; some syllabic spellings and italic directions may need verification.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

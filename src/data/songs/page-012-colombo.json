@@ -1,0 +1,16 @@
+{
+  "title": "Colombo",
+  "category": "Repeat After Me Songs",
+  "page": 12,
+  "source_page_range": "11-12",
+  "source_page_file": "_scrape/ocr/pages/pages-011-012.json",
+  "source_photo_filename": "image copy 8.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 8.png",
+  "transcription": "Columbo\n\nIn fourteen hundred and ninety-two!\n(Repeat)\nA sailor from New Delhi\n(Repeat)\nWas walkin' around the streets of Spain\n(Repeat)\nAnd sellin' hot tamales,\n(Repeat)\n\nChorus:\nWell he said the world was round-o!\n(Repeat)\nAnd he said it could be found-o!\n(Repeat)\nThat hypothetical calculating\nson-of-a-gun, Columbo!\n(Repeat)\n\n(Continue with repeats)\n\nWell he walked right up\nto the queen of Spain\nAnd he asked for ships and cargo\nAnd he said I'll be a son-of-a-gun\nIf I don't bring back Chicago.\n\nChorus\n\nThe First Mate, The First Mate,\nA beard 'e had a big 'un.\nHe wrapped it twice around the mast\nAnd he used the rest for riggin'.\n\nChorus",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription; non-English refrain spellings and small repeat marks should be verified.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

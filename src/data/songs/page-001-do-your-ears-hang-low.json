@@ -1,0 +1,16 @@
+{
+  "title": "Do Your Ears Hang Low?",
+  "category": "Action/Countdown Songs",
+  "page": 1,
+  "source_page_range": "1-2",
+  "source_page_file": "_scrape/ocr/pages/pages-001-002.json",
+  "source_photo_filename": "image copy 3.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 3.png",
+  "transcription": "Do Your Ears Hang\nLow?\n\nDo your ears hang low?\nDo they wobble to and fro?\nCan you tie 'em in a knot?\nCan you tie 'em in a bow?\nCan you throw 'em o'er your shoulder\nLike a continental soldier?\nDo your ears hang low?\n\nCan your ears stand high?\nCan they stand up in the sky?\nCan they stand up if they're wet?\nCan they stand up if they're dry?\nCan you wave them to your neighbor\nWith a minimum of labor?\nCan your ears stand high?\n\nRepeat First Verse",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription; small action symbols omitted and some italic instructions may need verification.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

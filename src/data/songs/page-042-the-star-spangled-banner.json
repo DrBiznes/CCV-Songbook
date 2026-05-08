@@ -1,0 +1,16 @@
+{
+  "title": "The Star-Spangled Banner",
+  "category": "Patriotic Songs",
+  "page": 42,
+  "source_page_range": "41-42",
+  "source_page_file": "_scrape/ocr/pages/image-copy-24.json",
+  "source_photo_filename": "image copy 24.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 24.png",
+  "transcription": "The Star-Spangled Banner\n\nOh say, can you see,\nby the dawn's early light,\nWhat so proudly we hailed\nAt the twilight's last gleaming,\nWhose broad stripes and bright stars,\nThrough the perilous fight,\nO'er the ramparts we watched,\nwere so gallantly streaming?\nAnd the rocket's red glare,\nthe bombs bursting in air,\nGave proof thru the night\nthat our flag was still there.\nOh say, does that star-spangled\nbanner yet wave\nO'er the land of the free\nand the home of the brave?\n\nOh the shore, dimly seen\nthru the mists of the deep,\nWhere the foe's haughty host\nin dread silence reposes,\nWhat is that which the breeze,\no'er the towering steep,\nAs it fitfully blows, half conceals,\nhalf discloses?\nNow it catches the gleam\nof the morning's first beam,\nIn full glory reflected\nnow shines on the stream:\n'Tis the star-spangled banner!\nOh, long may it wave\nO'er the land of the free\nand the home of the brave!\n\nOh, thus be it ever,\nwhen free men shall stand\nBetween their loved homes\nand the war's desolation!\nBlest with vict'ry and peace,\nmay the heav'n-rescued land\nPraise the Pow'r that hath made\nand preserved us a nation!\nThen conquer we must,\nwhen our cause it is just,\nAnd this be our motto:\n\"In God is our trust!\"\nAnd the star-spangled banner\nin triumph shall wave\nO'er the land of the free\nand the home of the brave!",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription from photographed page spread. Some punctuation normalized where the image is soft.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

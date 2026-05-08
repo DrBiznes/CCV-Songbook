@@ -1,0 +1,16 @@
+{
+  "title": "One Man Went to Mow",
+  "category": "Action/Countdown Songs",
+  "page": 3,
+  "source_page_range": "3-4",
+  "source_page_file": "_scrape/ocr/pages/pages-003-004.json",
+  "source_photo_filename": "image copy 4.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 4.png",
+  "transcription": "One Man Went to Mow\n\nOne man went to mow,\nwent to mow the meadow,\nOne man and his dog,\nwent to mow the meadow.\n\nTwo men went to mow,\nwent to mow the meadow,\nTwo men, one man and his dog,\nwent to mow the meadow.\n\nThree men went to mow,\nwent to mow the meadow,\nThree men, two men, one man and his dog\nwent to mow the meadow.\n\nso forth until ten men, getting faster each\nverse.",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription; dialect spellings and small italic instructions are uncertain in places.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

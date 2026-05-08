@@ -1,0 +1,16 @@
+{
+  "title": "Oh The Deacon Went Down",
+  "category": "Repeat After Me Songs",
+  "page": 12,
+  "source_page_range": "11-12",
+  "source_page_file": "_scrape/ocr/pages/pages-011-012.json",
+  "source_photo_filename": "image copy 8.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 8.png",
+  "transcription": "Oh, The Deacon Went\nDown\n\nOh the Deacon went down in his cellar\nto pray,\nHe done got drunk and he stayed all\nday,\nOh the Deacon went down in his cellar\nto pray,\nHe done got drunk and he stayed all\nday.\n\nPossible verses:\nOh ya can't get to heaven\non roller skates,\nYou'll roll right past them pearly gates.\n\nOh ya can't get to heaven\non a telephone pole,\nCause the telephone pole\nis stuck in a hole.\n\nOh ya can't get to heaven\non a rockin' chair,\nYou'll rock and rock and never get there.\n\nOh ya can't get to heaven\nin my old car,\nCause my old car won't go that far.\n\nFinal Chorus:\nI ain't a-gonna grieve my Lord no more\nI ain't a-gonna grieve my Lord no more\nI ain't a-gonna grieve my Lord no more\nMy Lord no more...my Lord no more",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription; non-English refrain spellings and small repeat marks should be verified.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

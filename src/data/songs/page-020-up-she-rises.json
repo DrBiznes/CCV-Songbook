@@ -1,0 +1,16 @@
+{
+  "title": "Up She Rises",
+  "category": "Songs of the Sea",
+  "page": 20,
+  "source_page_range": "19-20",
+  "source_page_file": "_scrape/ocr/pages/page-019-020.json",
+  "source_photo_filename": "image copy 12.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 12.png",
+  "transcription": "Up She Rises\n\nChorus:\nWay, hey and up she rises\nWay, hey and up she rises\nWay, hey and up she rises\nearly in the morning\n\nWhat do you do with a drunken sailor?\nWhat do you do with a drunken sailor?\nWhat do you do with a drunken sailor?\nEarly in the morning?\n\nPut him in a longboat with no oars\nPut him in a longboat with no oars\nPut him in a longboat with no oars\nEarly in the morning!\n\nChorus\n\nShave his belly with a rusty razor\nShave his belly with a rusty razor\nShave his belly with a rusty razor\nEarly in the morning\n\nChorus\n\nPut him in a cabin with the Captain's daughter\nPut him in a cabin with the Captain's daughter\nPut him in a cabin with the Captain's daughter\nEarly in the morning\n\nChorus\n\nPut him in a bathtub 'til he's sober\nPut him in a bathtub 'til he's sober\nPut him in a bathtub 'til he's sober\nEarly in the morning\n\nChorus",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription from a clear two-page scan. Some punctuation and example bean names are uncertain.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

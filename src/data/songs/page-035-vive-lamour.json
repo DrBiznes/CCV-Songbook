@@ -1,0 +1,16 @@
+{
+  "title": "Vive l'Amour",
+  "category": "Hiking / Scouting Songs",
+  "page": 35,
+  "source_page_range": "35-36",
+  "source_page_file": "_scrape/ocr/pages/pages-35-36.json",
+  "source_photo_filename": "image copy 21.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 21.png",
+  "transcription": "Vive l'Amour\n\nCome every good fellow\nand join in my song,\nVive la compagnie.\nSuccess to each other and pass it along\nVive la compagnie.\n\nChorus:\nVive la vive la vive l'amour;\nVive la vive la vive l'amour;\nVive l'amour, vive l'amour,\nVive la compagnie.\n\nA friend on my left\nand a friend on my right\nVive la compagnie.\nIn love and good friendship let us unite\nVive la compagnie.\n\nChorus\n\nNow wider and wider our circle expands\nVive la compagnie.\nLet's sing to our comrades\nin far away lands\nVive la compagnie.\n\nChorus",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription from photographed page spread. Page 36 is sparse and relatively clear.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

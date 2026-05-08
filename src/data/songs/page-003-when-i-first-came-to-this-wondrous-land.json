@@ -1,0 +1,16 @@
+{
+  "title": "When I First Came to This Wondrous Land",
+  "category": "Action/Countdown Songs",
+  "page": 3,
+  "source_page_range": "3-4",
+  "source_page_file": "_scrape/ocr/pages/pages-003-004.json",
+  "source_photo_filename": "image copy 4.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 4.png",
+  "transcription": "When I First Came\nto This Wondrous Land\n\nWhen I first came to this wondrous\nland, I was not a wealthy man,\nSo I got myself a farm, and called it:\n\"Muscle in my arm.\"\n\nAnd I called my farm \"Muscle in my\narm,\" and the land\nwas sweet and good, and I did what I\nshould.\n\nOther verses (in order)\nA shack...break-a my back.\nDuck...out of luck.\nHorse...lame, of course.\nCow...no milk now.\nWife...love of my life.\nSon...my work's done.\n\nAfter each new verse, sing the preceding verses\nwith actions back down to the first, in order.",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription; dialect spellings and small italic instructions are uncertain in places.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

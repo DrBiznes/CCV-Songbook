@@ -1,0 +1,16 @@
+{
+  "title": "It's Cheese",
+  "category": "Action/Countdown Songs",
+  "page": 8,
+  "source_page_range": "7-8",
+  "source_page_file": "_scrape/ocr/pages/pages-007-008.json",
+  "source_photo_filename": "image copy 6.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 6.png",
+  "transcription": "It's Cheese\n\nIt's cheese, it's cheese, it's cheese\nthat makes the mice go round,\nIt's cheese, it's cheese, it's cheese\nthat makes the mice go round,\nIt's cheese, it's cheese, it's cheese\nthat makes the mice go round.\nChorus:\nOh, roll me o'er the ocean,\nroll me o'er the sea,\nroll me o'er the ocean\nand the deep blue sea,\nOh, roll me o'er the ocean,\nroll me o'er the sea,\nroll me o'er the ocean\nand the deep blue sea.\n\nother verses:\n...Mice that make the cats go round,\n...Cats that make the dogs go round,\n...Dogs that make the boys go round,\n...Boys that make the girls go round,\n...Girls that make the love go round,\n...Love that makes the world go round,\n\nafter last verse and chorus:\n\nTherefore!\nIt's cheese that makes the world go\nround,",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription; some syllabic spellings and italic directions may need verification.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

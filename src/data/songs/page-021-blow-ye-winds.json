@@ -1,0 +1,16 @@
+{
+  "title": "Blow ye Winds",
+  "category": "Songs of the Sea",
+  "page": 21,
+  "source_page_range": "21-22",
+  "source_page_file": "_scrape/ocr/pages/page-021-022.json",
+  "source_photo_filename": "image copy 13.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 13.png",
+  "transcription": "Blow Ye Winds\n\n'Tis advertised in Boston town,\nNew York, and Buffalo\nTen thousand brave Americans\na-whaling for to go.\n\nChorus:\nSinging blow ye winds in the morning\nblow ye winds hi-ho\nClear away your running gear\nand blow ye winds hi-ho.\n\nThey ship you to New Bedford,\nthe famous whaling port\nThey put you on a clipper ship\nbefore you know you're out.\n\nChorus\n\nAnd now we're out to sea, my boys,\nthe winds com on to blow\nOne half the watch is sick on deck,\nthe other half below.\n\nChorus\n\nOur captain is a salty man,\nhis stern with beard of grey\nHe's been a whaling for to go\nfor many a lonesome day.\n\nChorus\n\nWe're up since early morning\nawait the whale fish blow\nThe harpoon strikes are clean and fast\nand then she dives below.\n\nChorus\n\nAnd now that she is ours, my boys,\nwe'll drag her to the side.\nWe'll lower down the blubber hooks\nand rob her of her hide.\n\nChorus\n\nAnd now our cruise is over,\nthe pay we get is grand.\nWe'll heave on all our stud sails\nand sail for Yankee land.\n\nChorus",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription from a clear two-page scan. Some old spellings and a few scanned words are uncertain.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

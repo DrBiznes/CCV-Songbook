@@ -1,0 +1,16 @@
+{
+  "title": "My Brother Bill",
+  "category": "Fun Songs",
+  "page": 33,
+  "source_page_range": "33-34",
+  "source_page_file": "_scrape/ocr/pages/pages-33-34.json",
+  "source_photo_filename": "image copy 20.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 20.png",
+  "transcription": "My Brother Bill\n\nMy brother Bill's a fireman bold\ncause he puts out fires.\nHe went to a fire last night I'm told,\ncause he puts out fires.\nThere was a blast of dynamite\nthat blew poor Bill right out of sight,\nBut where he goin' he'll be all right\ncause he puts out fires.",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription from photographed page spread. Nonsense syllables in 'Hucka' are especially uncertain.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

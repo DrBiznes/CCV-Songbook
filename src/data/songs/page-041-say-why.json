@@ -1,0 +1,16 @@
+{
+  "title": "Say Why",
+  "category": "Quiet Songs/Spirituals",
+  "page": 41,
+  "source_page_range": "41-42",
+  "source_page_file": "_scrape/ocr/pages/image-copy-24.json",
+  "source_photo_filename": "image copy 24.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 24.png",
+  "transcription": "Say Why\n\nSay Why, should this parting make us cry?\nSay Why, should this parting make us cry?\nSay Why, should this parting make us cry?\nSay why, dear friend, say why.\n\nSay Who, could I ever love but you?\nSay Who, could I ever love but you?\nSay Who, could I ever love but you?\nSay who, dear friend, say who.\n\nSay When, shall we ever meet again?\nSay When, shall we ever meet again?\nSay When, shall we ever meet again?\nSay when, dear friend, say when.\n\nSay Where, and I will meet you there.\nSay Where, and I will meet you there.\nSay Where, and I will meet you there.\nSay where, dear friend, say where.\n\nSay Why, Say Who, Say When,\nSay Where.",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription from photographed page spread. Some punctuation normalized where the image is soft.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

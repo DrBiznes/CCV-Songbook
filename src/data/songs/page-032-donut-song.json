@@ -1,0 +1,16 @@
+{
+  "title": "Donut Song",
+  "category": "Fun Songs",
+  "page": 32,
+  "source_page_range": "31-32",
+  "source_page_file": "_scrape/ocr/pages/pages-31-32.json",
+  "source_photo_filename": "image copy 19.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 19.png",
+  "transcription": "Donut Song\n\nWell, I walked around the corner,\nand I walked around the block,\nand I walked right in to the donut shop,\nand I scooped up a donut\nright out of the grease,\nand I handed the lady a five-cent piece.\n\nWell, she looked at the nickel,\nand she looked at me,\nand she said: \"This nickel's no good to\nme, there's a hole in the middle\nI can see right through.\" And I said,\n\"There's a hole in the donut too\"\nThanks for the donut, so long!",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription from photographed page spread. Several climbing terms on page 31 are difficult to read and may need verification.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

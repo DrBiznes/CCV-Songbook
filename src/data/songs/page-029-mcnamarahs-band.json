@@ -1,0 +1,16 @@
+{
+  "title": "McNamarah's Band",
+  "category": "Celtic/Folk Songs",
+  "page": 29,
+  "source_page_range": "29-30",
+  "source_page_file": "_scrape/ocr/pages/pages-29-30.json",
+  "source_photo_filename": "image copy 18.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 18.png",
+  "transcription": "McNamara's Band\n\nMy name is McNamarah\nI'm the leader of the band,\nAlthough we're few in number\nwe're the finest in the land,\nWe play at wakes and weddings\nand at every fancy ball.\nAnd if it can't be played by us,\nit can't be played at all!\n\nChorus:\nFor the drums go bang and the cymbals\nclang and the horns they blaze away.\nMcCarthy pumps the old bassoon\nwhile I the pipes do play\nAnd Hennessy Tennsey tootles the flute\nand the music is something grand\nA credit to old Ireland is\nMcNamara's band.\n\nAccompaniment:\nBa da da da                    Boom boom\n\nBa da da da                    Boom boom\n\nBa da da da                    Boom boom\n\nDa da da da                    Boom boom\n\nBa da da da                    Boom boom\n\nDa da da da                    Boom boom\n\nDa da da da da da da da da da da\nBoom boom\n\nOf course I am conductor\nand we very often play\nBefore the great musicians\nthat you hear of every day.\nWhen General Grant to Ireland came\nand took me by the hand.\nSays he, \"I never heard the likes of\nMcNamarah's band.\"\n\nChorus",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription from photographed page spread. Some proper names and dialect spellings are uncertain.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

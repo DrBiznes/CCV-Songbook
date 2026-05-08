@@ -1,0 +1,16 @@
+{
+  "title": "Loch Lomond",
+  "category": "Celtic/Folk Songs",
+  "page": 26,
+  "source_page_range": "25-26",
+  "source_page_file": "_scrape/ocr/pages/image-copy-15.json",
+  "source_photo_filename": "image copy 15.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 15.png",
+  "transcription": "Loch Lomond\n\nBy yon bonnie banks,\nand by yon bonnie braes\nWhere the sun shines bright\non Loch Lomond\nWhere me and my true love\nwere ever wont to go\nOn bonnie, bonnie banks of Loch Lomond\n\n'Twas there that we parted\nin yon shady glen\nOn steep, steep side of Ben Lomond\nWhere in soft, purple hue\nthe highland hills we view\nAnd the moon coming out\nin the gloaming\n\nChorus:\nOh, you take the high road\nand I'll take the low road\nAnd I'll be to Scotland before you\nBut me and my true love\nwill never meet again\nOn the bonnie, bonnie banks\nof Loch Lomond\n\nThe wee bird may sing,\nand the wild flowers spring\nAnd sunshine the waters be sleeping\nBut my broken heart knows not\nthe heather or the glen\nFor 'tis blinded by tears that I'm weeping\n\nChorus",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription from photographed page spread. Some small words are uncertain because of image softness, especially in McPhearson's Farewell and Woad.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

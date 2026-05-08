@@ -1,0 +1,16 @@
+{
+  "title": "Herbie",
+  "category": "Action/Countdown Songs",
+  "page": 4,
+  "source_page_range": "3-4",
+  "source_page_file": "_scrape/ocr/pages/pages-003-004.json",
+  "source_photo_filename": "image copy 4.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 4.png",
+  "transcription": "Herbie\nAction song\n\nspoken, with slobbering clap.\nOne day,\nI was skippin' home from school,\nskippin' home from school,\nskippin' home from school,\nung!\nAnd there was mamma, and there was\npapa, and there was sister,\nand there was brother, and there was\nHerbie, the family pet, \"Chah!\"\nAnd he was this big, this big\n(make small indication with hand)\n\nAnd the next day I was skippin' home\nfrom school,\nskippin' home from school, skippin'\nhome from school.\nung!\nAnd there was mamma, and there was\npapa, and there was sister,\nbut there was no brother!\nAnd I was so mad!\nand there was Herbie,\nthe family pet, \"Chah!\"\nAnd he was this big, this big\n(make slightly bigger indication with hand)\n\ncontinue with sequence, substituting one\nfamily member each time while indicating\nthat Herbie was bigger. When there is no\nmamma, say in unison:\n\nAnd then Herbie let out the biggest\nbelch I've ever heard in my entire life!\nung!\nAnd there was mamma, and there was\npapa, and there was sister,\nand there was brother,\nHerbie, the family pet, \"Chah!\"\nAnd he was this big, this big!\n(make small indication with hand)",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription; dialect spellings and small italic instructions are uncertain in places.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

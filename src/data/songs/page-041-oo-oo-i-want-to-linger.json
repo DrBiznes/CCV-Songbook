@@ -1,0 +1,16 @@
+{
+  "title": "Oo-Oo I Want to Linger",
+  "category": "Quiet Songs/Spirituals",
+  "page": 41,
+  "source_page_range": "41-42",
+  "source_page_file": "_scrape/ocr/pages/image-copy-24.json",
+  "source_photo_filename": "image copy 24.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 24.png",
+  "transcription": "Oo-oo I Want to Linger\n\nOo-oo I want to linger,\nOo-oo, A little longer,\nOo-oo, A little longer here with you.\n\nOo-oo It's such a perfect night\nOo-oo, It doesn't seem quite right,\nOo-oo, That it's our last night\nhere with you.\n\nOo-oo, And come September\nOo-oo, We will remember,\nOo-oo, These Scouting days\nand friendships true.\n\nOo-oo, And as the years go by,\nOo-oo, I'll think of you and sigh,\nOo-oo, It's just goodnight\nand not goodbye.\n\n(End with a repeat of verse one)\n\nPatriotic Songs",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription from photographed page spread. Some punctuation normalized where the image is soft.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

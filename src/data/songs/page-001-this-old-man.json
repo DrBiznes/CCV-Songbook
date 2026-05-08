@@ -1,0 +1,16 @@
+{
+  "title": "This Old Man",
+  "category": "Action/Countdown Songs",
+  "page": 1,
+  "source_page_range": "1-2",
+  "source_page_file": "_scrape/ocr/pages/pages-001-002.json",
+  "source_photo_filename": "image copy 3.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 3.png",
+  "transcription": "This Old Man\n\nThis old man, he played one\nHe played knick-knack on my thumb\n\nChorus:\nWith a knick-knack, patty-whack\nGive a dog a bone\nThis old man came rolling home\n\nThis old man, he played two\nHe played knick-knack on my shoe\n\nChorus\n\nThis old man, he played three\nHe played knick-knack on my knee\n\nChorus\n\nThis old man, he played four\nHe played knick-knack on my door\n\nChorus\n\nThis old man, he played five\nHe played knick-knack on my hive\n\nChorus\n\nThis old man, he played six\nHe played knick-knack on my sticks\n\nChorus\n\nThis old man, he played seven\nHe played knick-knack up to heaven\n\nChorus\n\nThis old man, he played eight\nHe played knick-knack on my gate\n\nChorus\n\nThis old man, he played nine\nHe played knick-knack on my line\n\nChorus\n\nThis old man, he played ten\nHe played knick-knack over again\n\nChorus",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription; small action symbols omitted and some italic instructions may need verification.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

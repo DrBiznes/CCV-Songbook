@@ -1,0 +1,16 @@
+{
+  "title": "Battle Hymn of the Republic",
+  "category": "Patriotic Songs",
+  "page": 44,
+  "source_page_range": "43-44",
+  "source_page_file": "_scrape/ocr/pages/image-copy-25.json",
+  "source_photo_filename": "image copy 25.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 25.png",
+  "transcription": "Battle Hymn of the Republic\n\nMine eyes have seen the glory\nof the coming of the Lord;\nHis is trampling out the vintage\nwhere the grapes of wrath are stored.\nHe hath loosed the fateful lightning\nof his terrible, swift sword;\nHis truth is marching on.\n\nChorus:\nGlory, Glory, hallelujah!\nGlory, Glory, hallelujah!\nGlory, Glory, hallelujah!\nHis truth is marching on.\n\nHe has sounded forth the trumpet\nthat shall never call retreat;\nHe is sifting out the hearts of men\nbefore his judgement seat.\nOh, be swift, my soul, to answer him;\nbe jubilant my feet!\nOur God is marching on.\n\nChorus\n\nIn the beauty of the lilies,\nChrist was born across the sea,\nWith a glory in his bosom\nthat transfigures you and me.\nAs he died to make men holy,\nlet us live to make men free,\nWhile God is marching on.\n\nChorus",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription from photographed page spread. The Battle Hymn title appears visually compressed in the photo; expanded in title text.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

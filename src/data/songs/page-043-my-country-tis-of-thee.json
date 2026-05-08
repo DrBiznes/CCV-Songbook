@@ -1,0 +1,16 @@
+{
+  "title": "My Country 'Tis of Thee",
+  "category": "Patriotic Songs",
+  "page": 43,
+  "source_page_range": "43-44",
+  "source_page_file": "_scrape/ocr/pages/image-copy-25.json",
+  "source_photo_filename": "image copy 25.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 25.png",
+  "transcription": "My Country! 'Tis of Thee,\n\nMy country! 'tis of thee,\nSweet land of liberty,\nOf thee I sing;\nLand where my fathers died,\nLand of the pilgrims' pride,\nFrom ev'ry mountain side\nLet freedom ring.\n\nMy native country, thee,\nLand of the noble free,\nThy name I love;\nI love thy rocks and rills,\nThy woods and temples hills,\nMy heart with rapture thrills\nLike that above.\n\nLet music swell the breeze,\nAnd ring from all the trees\nSweet freedom's song;\nLet mortal tongues awake,\nLet all that breathe partake,\nLet rocks their silence break,\nThe sound prolong.\n\nOur fathers' God, to Thee,\nAuthor of Liberty,\nTo Thee we sing;\nLong may our land be bright\nWith freedom's holy light,\nProtect us by Thy might,\nGreat God, our King.",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription from photographed page spread. The Battle Hymn title appears visually compressed in the photo; expanded in title text.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

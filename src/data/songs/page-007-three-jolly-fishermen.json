@@ -1,0 +1,16 @@
+{
+  "title": "Three Jolly Fishermen",
+  "category": "Action/Countdown Songs",
+  "page": 7,
+  "source_page_range": "7-8",
+  "source_page_file": "_scrape/ocr/pages/pages-007-008.json",
+  "source_photo_filename": "image copy 6.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 6.png",
+  "transcription": "Three Jolly Fishermen\n\nThere were three jolly fishermen,\nThere were three jolly fishermen,\nFisher, fisher; men, men, men,\nFisher, fisher; men, men, men,\nThere were three jolly fishermen.\n\nThe first one's name was Abraham,\nThe first one's name was Abraham,\nAbra, Abra; ham, ham, ham, etc.\n\nThe second one's name was I-I-saac,\nThe second one's name was I-I-saac,\nI-I, I-I; zak, zik, zik, etc.\n\nThe third one's name was Ja-a-cob,\nThe third one's name was Ja-a-cob,\nJa-a, Ja-a; cub, cub, cub, etc.\n\nThey all went up to Jericho,\nThey all went up to Jericho,\nJer-i, Jer-i; cho, cho, cho, etc.\n\nThey should have gone to Amsterdam,\nThey should have gone to Amsterdam,\nAmster, Amster; ah, ah, ah, etc.\n\nVariation: Have one group shout Fisher, fisher\nand a second group shout men, men, men.\nRepeat this for Abraham, Isaac, Jacob,\nJericho, and Amsterdam.\n(remember the \"Sea...\")",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription; some syllabic spellings and italic directions may need verification.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

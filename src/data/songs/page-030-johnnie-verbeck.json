@@ -1,0 +1,16 @@
+{
+  "title": "Johnnie Verbeck",
+  "category": "Fun Songs",
+  "page": 30,
+  "source_page_range": "29-30",
+  "source_page_file": "_scrape/ocr/pages/pages-29-30.json",
+  "source_photo_filename": "image copy 18.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 18.png",
+  "transcription": "Johnnie Verbeck\n\nThere was a little Dutchman,\nhis name was Johnnie Verbeck.\nHe was a dealer in sausages\nand sauerkraut and spec.\nHe made the finest sausages\nthat ever you did see.\nBut one day he invented\na wonderful sausage machine.\n\nChorus:\nOh, Mister Johnnie Verbeck,\nHow could you be so mean?\nI told you you'd be sorry\nFor inventing that machine.\nNow all the neighbors' cats and dogs\nWill never more be seen,\nThey'll all be ground to sausages\nIn Johnnie Verbeck's machine.\n\nOne day a little fat boy\ncame walking in the store,\nHe bought a pound of sausage\nand piled them on the floor;\nThen he began to whistle\nand he whistled up a tune,\nAnd all the little sausages\nwent dancing around the room.\n\nChorus\n\nOne day the machine got busted,\nthe blamed thing wouldn't go,\nSo Johnnie Verbeck, he climbed inside\nto see what made it so.\nHis wife, she had a nightmare\nand walking in her sleep,\nShe gave the crank and awful yank and\nJohnnie Verbeck was meat.\n\nChorus",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription from photographed page spread. Some proper names and dialect spellings are uncertain.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

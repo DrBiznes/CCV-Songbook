@@ -1,0 +1,16 @@
+{
+  "title": "Roll Out the Thunder",
+  "category": "Hiking / Scouting Songs",
+  "page": 34,
+  "source_page_range": "33-34",
+  "source_page_file": "_scrape/ocr/pages/pages-33-34.json",
+  "source_photo_filename": "image copy 20.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 20.png",
+  "transcription": "Roll Out The Thunder\n\nRoll out the thunder boys,\nWe'll never go under boys.\nWe are the Cherry Valley Staff you see!\nWe've got the spirit, right!\nWe'll sing so you hear it, right!\nWe are the Cherry Valley Staff that's me.\n\nWe can hike a whole day through,\nRow or paddle a canoe.\nWe can hike or swim or sail a boat,\nO'er the ocean,\n\nSo let's roll out the thunder boys,\nWe'll never go under boys.\nWe are the Cherry Valley Staff you see!\nWe've got the spirit, right!\nWe'll sing so you hear it, right!\nWe are the Cherry Valley Staff that's me.",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription from photographed page spread. Nonsense syllables in 'Hucka' are especially uncertain.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

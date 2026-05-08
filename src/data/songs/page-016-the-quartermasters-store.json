@@ -1,0 +1,16 @@
+{
+  "title": "The Quartermaster's Store",
+  "category": "Call-Out-a-Verse Songs",
+  "page": 16,
+  "source_page_range": "15-16",
+  "source_page_file": "_scrape/ocr/pages/page-015-016.json",
+  "source_photo_filename": "image copy 10.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 10.png",
+  "transcription": "The Quartermaster's\nStore\n\nThere are snakes, snakes big as garden rakes,\nAt the store, at the store.\nThere are snakes, (snakes), snakes big\nas garden rakes,\nAt the quartermaster's store.\n\nChorus:\nMy eyes are dim, I cannot see,\nI have not got my specks with me.\nI have not got my specks with me.\n\nThere are mice, mice running through the rice,\nAt the store, at the store.\nThere are mice, (mice), mice running\nthrough the rice,\nAt the quartermaster's store.\n\nChorus\n\nThere are rats, rats, big as alley cats,\nAt the store, at the store.\nThere are rats, (rats), rats,\nbig as alley cats,\nAt the quartermaster's store.\n\nChorus\nExtra verses can be added as desired.",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription from a clear two-page scan. Several nonsense/phonetic words are uncertain.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Wasaw the 42nd",
+  "category": "Rounds/Split Group Songs",
+  "page": 15,
+  "source_page_range": "15-16",
+  "source_page_file": "_scrape/ocr/pages/page-015-016.json",
+  "source_photo_filename": "image copy 10.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 10.png",
+  "transcription": "Wasaw the 42nd\nSplit Group\n\nWasaw the 42nd, Wasaw we none to wa'\nWasaw, the 42nd, marching thru\nthe brambles raw.\nZoom, we ain't got boots no stockings,\nZoom, we ain't got none to wa'\nZoom, we ain't got boots no stockings,\nmarching thru the brambles raw.\n\nZoom, Zoom, Zoom, Zoom.\n\nOne half of group sings verse again, while\nother half repeats the Zoom as rhythm for\nthe first group. Switch parts and repeat.\n\nCall-Out-A-Verse Songs",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription from a clear two-page scan. Several nonsense/phonetic words are uncertain.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

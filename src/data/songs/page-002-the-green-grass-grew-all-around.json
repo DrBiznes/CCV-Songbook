@@ -1,0 +1,16 @@
+{
+  "title": "The Green Grass Grew All Around",
+  "category": "Action/Countdown Songs",
+  "page": 2,
+  "source_page_range": "1-2",
+  "source_page_file": "_scrape/ocr/pages/pages-001-002.json",
+  "source_photo_filename": "image copy 3.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 3.png",
+  "transcription": "The Green Grass Grew\nAll Around\nA speed-up pattern song\n\nThere was a hole,\nThe prettiest hole,\nThe prettiest hole\nthat you ever did see,\nThe hole was in the ground,\n\nRefrain:\nAnd the green grass grew all around,\nall around\nAnd the green grass grew all\naround.\n\nPossible lines:\nThere was a tree\nThere was a limb\nThere was a branch\nThere was a twig\nThere was a nest\nThere was a bird\nThere was a wing\nThere was a feather\nThere was a flea\netc.",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription; small action symbols omitted and some italic instructions may need verification.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Kum By Yah",
+  "category": "Quiet Songs/Spirituals",
+  "page": 39,
+  "source_page_range": "39-40",
+  "source_page_file": "_scrape/ocr/pages/image-copy-23.json",
+  "source_photo_filename": "image copy 23.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 23.png",
+  "transcription": "Kum By Yah\n\nKum by yah, my Lord, Kum by yah,\nKum by yah, my Lord, Kum by yah,\nKum by yah, my Lord, Kum by yah,\nOh Lord, kum by yah.\n\nAdditional verses repeat in same pattern:\n\nSomeone's crying my Lord, Kum by yah.\n\nSomeone's laughing, my Lord, Kum by yah.\n\nSomeone's singing, my Lord, Kum by yah.\n\nSomeone's praying my Lord, Kum by yah.\n\nSomeone's dying, my Lord, Kum by yah\n\n(End with repeat of verse one)",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription from photographed page spread. Page heading is faint; title inferred from the visible spirituals continuing from prior spread.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

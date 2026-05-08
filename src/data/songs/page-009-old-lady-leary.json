@@ -1,0 +1,16 @@
+{
+  "title": "Old Lady Leary",
+  "category": "Action/Countdown Songs",
+  "page": 9,
+  "source_page_range": "9-10",
+  "source_page_file": "_scrape/ocr/pages/pages-009-010.json",
+  "source_photo_filename": "image copy 7.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 7.png",
+  "transcription": "Old Lady Leary\n\nOne dark night, when we were all in bed,\nOld lady leary left the lantern in the shed,\nand when the cow kicked it over,\nshe winked her eye and said,\n'It'll be a hot time,\nin the old town, tonight,\nFire! Fire! Fire!'\nsing three times through, getting faster each\ntime\n\nAdditional scream optional at end of song.\n\nOne night dark, when bed we all were in,\nOld Leary Lady\nleft the shed the lantern in,\nand when the kick cowed it over,\nthe eyed her winked and said,\n'It'll be a time hot,\nin the town old, tonight,\nEire! Eire! Eire!'\n\n\"Repeat After Me\" Songs",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription; small italic directions and playful spellings are uncertain.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

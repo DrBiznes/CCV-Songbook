@@ -1,0 +1,16 @@
+{
+  "title": "There Was a Farmer, Had a Dog",
+  "category": "Action/Countdown Songs",
+  "page": 8,
+  "source_page_range": "7-8",
+  "source_page_file": "_scrape/ocr/pages/pages-007-008.json",
+  "source_photo_filename": "image copy 6.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 6.png",
+  "transcription": "There Was a Farmer,\nHad a Dog...\n\nThere was a farmer, had a dog, I hit it\nwith my pick-up,\nSPLAT, SPLAT, SPLAT,\nI hit it with my pick-up.\n\nTo the tune of BINGO, with the same\ndescending and ascending order of verses.",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription; some syllabic spellings and italic directions may need verification.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

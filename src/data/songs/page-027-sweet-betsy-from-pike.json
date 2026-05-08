@@ -1,0 +1,16 @@
+{
+  "title": "Sweet Betsy From Pike",
+  "category": "Celtic/Folk Songs",
+  "page": 27,
+  "source_page_range": "27-28",
+  "source_page_file": "_scrape/ocr/pages/pages-27-28.json",
+  "source_photo_filename": "image copy 17.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 17.png",
+  "transcription": "Sweet Betsy from Pike\n\nDo you remember sweet Betsy from Pike\nWho crossed the wide prairies\nwith her husband Ike\nWith two yoke of oxen\nand one spotted hog\nA tall shanghai rooster,\nand old yeller dog.\n\nChorus:\nSing too ra li oo ra li oo ra li ay\nSing too ra li oo ra li oo ra li ay\n\nThe alkali desert was burning and bare\nAnd Ike cried in fear,\n\"We are lost I declare!\nMy dear old Pike County,\nI'll go back to you\"\nSaid Betsy, \"You'll go by yourself if you do\"\n\nChorus\n\nThey swam the wide rivers and crossed\nthe tall peaks\nThey camped on the prairie\nfor weeks upon weeks\nThey fought with the Indians\nwith musket and ball\nThey reached California\nin spite of it all\n\nChorus",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription from photographed page spread. Some punctuation and words are uncertain due to image softness.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

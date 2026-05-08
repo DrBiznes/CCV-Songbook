@@ -1,0 +1,16 @@
+{
+  "title": "Fish-Heads",
+  "category": "Call-Out-a-Verse Songs",
+  "page": 18,
+  "source_page_range": "17-18",
+  "source_page_file": "_scrape/ocr/pages/page-017-018.json",
+  "source_photo_filename": "image copy 11.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 11.png",
+  "transcription": "Fish-Heads\n\nChorus:\nFish-heads, fish-heads,\nrolly, polly, fish-heads.\nFish-heads, fish-heads,\neat them up, yum...\n\nVerse-make up your own. Examples:\nI take a fish-head with me to the shower,\nit is better than soap on a rope.\n\n-I took a fish-head with me to a movie,\nit really stunk, and so did the fish head.\n\n(Pretty much no wrong answers on this one,\nbe creative. Try substituting the word 'fish-\nhead' for popular songs, ie 'If I were a fish-\nhead' for popular songs, ie 'If I were a rich man from\nFiddler on the Roof)",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription from a clear scan. A few words in the Sunday School verses are faint/uncertain, especially 'shove for cover' and some proper names.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

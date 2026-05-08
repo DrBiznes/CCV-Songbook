@@ -1,0 +1,16 @@
+{
+  "title": "Swing Low, Sweet Chariot",
+  "category": "Quiet Songs/Spirituals",
+  "page": 39,
+  "source_page_range": "39-40",
+  "source_page_file": "_scrape/ocr/pages/image-copy-23.json",
+  "source_photo_filename": "image copy 23.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 23.png",
+  "transcription": "Swing Low, Sweet Chariot\n\nSwing low, sweet chariot,\nComin' for to carry me home,\nSwing low, sweet chariot,\nComin' for to carry me home.\n\nI looked over Jordan and what did I see,\nComin' for to carry me home.\nA band of angels comin' after me,\nComin' for to carry me home.\n\nWell if you get there before I do,\nComin' for to carry me home.\nTell all my friend I'm comin' too,\nComin' for to carry me home.\n\nThe brightest day that ever I saw,\nComin' for to carry me home.\nWhen Heaven wash'd my sins away,\nComin' for to carry me home.\n\nI'm sometimes up and sometimes down,\nComin' for to carry me home.\nBut still my soul feels heav'nly bound,\nComin' for to carry me home.",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription from photographed page spread. Page heading is faint; title inferred from the visible spirituals continuing from prior spread.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

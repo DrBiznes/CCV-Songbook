@@ -1,0 +1,16 @@
+{
+  "title": "My Twentieth Summer",
+  "category": "Celtic/Folk Songs",
+  "page": 29,
+  "source_page_range": "29-30",
+  "source_page_file": "_scrape/ocr/pages/pages-29-30.json",
+  "source_photo_filename": "image copy 18.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 18.png",
+  "transcription": "My Twentieth Summer\n\nChorus:\nOn my twentieth summer,\nI wandered on my own,\nto find a land that God had made,\nand man had left alone.\nI found a land of beauty,\nI never would have known,\nhad not my twentieth summer\nbrought me here, to Cherry Cove.\n\nI left the hurried city\nand all my cares behind,\nto wander 'cross the ocean,\nto see what I might find.\nI wandered over mountains,\nthrough waters emerald green,\nOh, it would take a thousand days\nto tell what I have seen.\n\nChorus\n\nFor it's here I can be happy,\nand here I love to roam,\nBut my heart will still be yearning\nfor the girl I left back home.\nSo I'll be gone by Monday,\nto make her mine alone,\nand on my twenty-first summer\nbring her here, to Cherry Cove\n\nChorus\n\n\nFun Songs",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription from photographed page spread. Some proper names and dialect spellings are uncertain.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

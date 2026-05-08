@@ -1,0 +1,16 @@
+{
+  "title": "My Dog (the bean song)",
+  "category": "Call-Out-a-Verse Songs",
+  "page": 19,
+  "source_page_range": "19-20",
+  "source_page_file": "_scrape/ocr/pages/page-019-020.json",
+  "source_photo_filename": "image copy 12.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 12.png",
+  "transcription": "My Dog\n(the bean song)\n\nMy dog ______ likes to roam, my dog\n______ left his home.\nHe came back so nice and clean,\nwhere, oh, where has ______ been?\n(Repeat name of bean three times)\n\nExamples: Navy, Billy, Soy, etc.\n\nSongs of the Sea",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription from a clear two-page scan. Some punctuation and example bean names are uncertain.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

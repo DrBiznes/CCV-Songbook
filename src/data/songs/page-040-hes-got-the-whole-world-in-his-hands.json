@@ -1,0 +1,16 @@
+{
+  "title": "He's Got the Whole World In His Hands",
+  "category": "Quiet Songs/Spirituals",
+  "page": 40,
+  "source_page_range": "39-40",
+  "source_page_file": "_scrape/ocr/pages/image-copy-23.json",
+  "source_photo_filename": "image copy 23.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 23.png",
+  "transcription": "He's Got the Whole World in His Hands\n\nHe's got the whole world\nin His hands,\nHe's got the big, round world\nin His hands,\nHe's got the wide world in His hands,\nHe's got the whole world\nin His hands.\n\nHe's got the wind and the rain\nin His hands,\nHe's got the sun and the moon\nin His hands,\nHe's got the world and the rain\nin His hands,\nHe's got the whole world\nin His hands.\n\nHe's got the little bitty baby\nin His hands,\nHe's got the little bitty baby\nin His hands,\nHe's got the little bitty baby\nin His hands,\nHe's got the whole world\nin His hands.\n\nHe's got you and me, brother,\nin His hands,\nHe's got you and me, brother,\nin His hands,\nHe's got you and me, brother,\nin His hands;\nHe's got the whole world in His hands.\n\nHe's got everybody here in His hands,\nHe's got everybody here in His hands,\nHe's got everybody here in His hands,\nHe's got the whole world in His hands.\n\nHe's got the whole world\nin His hands,\nHe's got the whole wide world\nin His hands,\nHe's got the whole world\nin His hands,\nHe's got the whole world\nin His hands.",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription from photographed page spread. Page heading is faint; title inferred from the visible spirituals continuing from prior spread.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

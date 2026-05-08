@@ -1,0 +1,16 @@
+{
+  "title": "There Was a Man named Mr. Lang",
+  "category": "Fun Songs",
+  "page": 33,
+  "source_page_range": "33-34",
+  "source_page_file": "_scrape/ocr/pages/pages-33-34.json",
+  "source_photo_filename": "image copy 20.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 20.png",
+  "transcription": "There was a Man Named Mr. Lang\n(Auld Lang Syne)\n\nThere was a man named Mr. Lang,\nwho had a neon sign,\nNow, Mr. Lang was very old,\nso they called it: \"Old Lang's sign.\"\nFor Old Lang's sign, my dear,\nfor Old Lang's sign!\nNow, Mr. Lang was very old,\nso they called it: \"Old Lang's sign.\"\n\n\nHiking/Scouting Songs",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription from photographed page spread. Nonsense syllables in 'Hucka' are especially uncertain.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}

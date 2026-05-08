@@ -1,0 +1,16 @@
+{
+  "title": "Stay on the Sunny Side",
+  "category": "Call-Out-a-Verse Songs",
+  "page": 16,
+  "source_page_range": "15-16",
+  "source_page_file": "_scrape/ocr/pages/page-015-016.json",
+  "source_photo_filename": "image copy 10.png",
+  "source_photo_path": "/Users/jam/hackerman/CCV-Songbook/_scrape/scrapephotos/image copy 10.png",
+  "transcription": "Stay on the Sunny Side\n\nStay on the sunny side, always on the\nsunny side,\nStay on the sunny side of life (two!\nThree! Four!)\nYou'll feel no pain, as we drive you\ninsane,\nIf you stay on the sunny side of life.\n\n'Knock-knock!' (who's there?)\n'Warren,'\n(warren who?) 'Warren Peace!' (ahhh-\nhhh!)\n\nRepeat song as many times as desired, with\nvolunteers from the staff or audience doing\ntheir own knock-knock joke and the group\nanswering.",
+  "notes": "Draft song-level split from visual page transcription. Source page note: Draft visual transcription from a clear two-page scan. Several nonsense/phonetic words are uncertain.",
+  "metadata": {
+    "transcription_method": "visual_ai",
+    "split_method": "title_index_script",
+    "status": "draft"
+  }
+}
